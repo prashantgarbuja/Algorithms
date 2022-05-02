@@ -7,6 +7,8 @@
   <li>Brute Force</li>
   <li>Bubble Sort</li>
   <li>DFS</li>
+  <li>Insertion Sort</li>
   <li>Merge Sort</li>
   <li>Quick Sort</li>
+  <li>Selection Sort</li>
 </ul>
