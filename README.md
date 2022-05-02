@@ -1,5 +1,5 @@
 # Algorithms
-
+These are some of the popular list of Algorithms written in Java:
 <ul>
   <li>BFS</li>
   <li>Binary Search (iterative)</li>
